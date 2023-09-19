@@ -3,7 +3,7 @@
 // 1. Entrada del programa Input (I)
 //----------------------------------
 var items = [2, 3, 5, 7, 11, 13, 17]; // index es el cursor
-console.log("en la posición 3 tenemos: " + items[1])
+console.log("en la posición 3 tenemos: " + items[1]);
 //----------------------------------
 // 2. Definición función de búsqueda
 //----------------------------------
@@ -23,7 +23,7 @@ function search(items, elemento_a_buscar) {
 // 3. Ejecución de la función: buscar un elemento en el array
 //-----------------------------------------------------------
 var resultado = search(items, 13);
-console.log(resultado)
+console.log(resultado);
 //----------------------------------
 // 4. Salida del programa Output (O)
 //----------------------------------
