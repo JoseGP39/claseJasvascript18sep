@@ -23,7 +23,8 @@ function search(items, elemento_a_buscar) {
 // 3. Ejecución de la función: buscar un elemento en el array
 //-----------------------------------------------------------
 var resultado = search(items, 13);
-console.log(resultado);
+console.log("En el array se encuentra en la posición; " + resultado);
+//console.log(resultado);
 //----------------------------------
 // 4. Salida del programa Output (O)
 //----------------------------------
